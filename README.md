@@ -5,7 +5,7 @@ Wellcome To My GitHub Profile</h1>
 <img align="right" alt="coding" width="600" src="https://steamuserimages-a.akamaihd.net/ugc/263853796339071424/92AAB28FC868BF1E971D2D7177C56F02F5EFBCED/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahim-alive-github&label=Profile%20views&color=0e75b6&style=flat" alt="fahim-alive-github" /> </p>
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I Am Funny Person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
