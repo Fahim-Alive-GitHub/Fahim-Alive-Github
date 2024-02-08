@@ -1,4 +1,5 @@
-<h1 align="center">Assalamualikum 💙✨,I'm Ebtida Rahman Fahim 🖤\n Wellcome To My GitHub Profile</h1>
+<h1 align="center">Assalamualikum 💙✨,I'm Ebtida Rahman Fahim 🖤
+Wellcome To My GitHub Profile</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <img align="right" alt="coding" width="600" src="https://steamuserimages-a.akamaihd.net/ugc/263853796339071424/92AAB28FC868BF1E971D2D7177C56F02F5EFBCED/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
