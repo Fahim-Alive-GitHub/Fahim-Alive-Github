@@ -1,6 +1,6 @@
 <h1 align="center">Assalamualikum 💙✨,I'm Ebtida Rahman Fahim 🖤
 Wellcome To My GitHub Profile</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
 
 <img align="right" alt="coding" width="800" src="https://giffiles.alphacoders.com/483/48368.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahim-alive-github&label=Profile%20views&color=0e75b6&style=flat" alt="fahim-alive-github" /> </p>
