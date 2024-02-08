@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fahim__Alive</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/263853796339071424/92AAB28FC868BF1E971D2D7177C56F02F5EFBCED/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img align="right" alt="coding" width="600" src="https://steamuserimages-a.akamaihd.net/ugc/263853796339071424/92AAB28FC868BF1E971D2D7177C56F02F5EFBCED/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahim-alive-github&label=Profile%20views&color=0e75b6&style=flat" alt="fahim-alive-github" /> </p>
 
 - ⚡ Fun fact **I am funny**
