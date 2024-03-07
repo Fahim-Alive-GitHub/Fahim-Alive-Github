@@ -1,22 +1,42 @@
-<h1 align="center">Assalamualikum 💙✨,I'm Ebtida Rahman Fahim 🖤
-Wellcome To My GitHub Profile</h1>
-<h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/c7/63/19/c76319fb38068493dd49d2229619c0e4.gif">
-<p align="left"> <img src="https://i.pinimg.com/originals/c7/63/19/c76319fb38068493dd49d2229619c0e4.gif" /> </p>
-
-- ⚡ Fun fact **I Am Funny Person**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/fahimalive777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahimalive777" height="30" width="40" /></a>
-<a href="https://instagram.com/fahim__alive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahim__alive" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ebtida rahman fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ebtida rahman fahim" height="30" width="40" /></a>
+<h1 align="center">
+     SuperWebView
+</h1>
+<p align="center">
+     <a style="text-decoration:none" href="https://github.com/roozbehzarei/SuperWebView/commits/master">
+          <img src="https://img.shields.io/github/last-commit/roozbehzarei/superwebview?color=informational&label=last%20update" alt="License" />
+     </a>
+     <a style="text-decoration:none" href="LICENSE">
+          <img src="https://img.shields.io/github/license/roozbehzarei/superwebview" alt="License" />
+     </a>
+     <a style="text-decoration:none" href="CODE_OF_CONDUCT.md">
+          <img src="https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg" alt="Code of Conduct" />
+     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+If you want to create an Android app from any website without writing a lot of code, SuperWebView is the perfect solution for you. It is a ready-made WebView template that saves you time and hassle.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahim-alive-github&show_icons=true&locale=en&layout=compact" alt="fahim-alive-github" /></p>
+### Features
+* Support Android 5.0+
+* Progress bar to indicate a webpage is being loaded.
+* Swipe down to refresh current webpage.
+* Show custom error page in times of connectivity issues.
+* Protect WebView's state from configuration changes. (e.g. screen orientation and keyboard availability changes)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahim-alive-github&show_icons=true&locale=en" alt="fahim-alive-github" /></p>
+## Build
+1. Click the **Code** button, which brings up a dialog.
+2. In the dialog, click the **Download ZIP** button to save the project to your computer. Wait for the download to complete.
+3. Locate the file on your computer (likely in the **Downloads** folder).
+4. Double-click the ZIP file to unpack it. This creates a new folder that contains the project files.
+5. Start Android Studio.
+6. In the **Welcome to Android Studio** window, click **Open an existing Android Studio project**.
+7. In the **Import Project** dialog, navigate to where the unzipped project folder is located.
+8. Double-click on that project folder.
+9. Wait for Android Studio to open the project.
+10. Click the **Make Project** button to build the app.
+
+## Customize
+1. In `MainActivity.kt`, put your own website URL as the value of `WEBSITE` constant.
+2. Replace default app icons with your own.
+
+*Optional*: Change the value of `javaScriptEnabled` to `false` in `MainActivity.kt` if your website doesn't contain any JavaScript elements.
